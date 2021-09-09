@@ -3,4 +3,5 @@ Generateur de qr code (datamatrix) pour l'application #TousAntiCovid
 
 Disponible ici -> http://antivax.000webhostapp.com/
 
-L'ajout de certificat fonctionne uniquement sur les téléphones Android 
+
+EDIT : L'ajout de certificat ne fonctionne plus du tout (patché par les développeurs)
