@@ -1,4 +1,4 @@
-# TOUSANTICOVID QR CODE GENERATEUR (Android)
+# TOUSANTICOVID QR CODE GENERATEUR
 Generateur de qr code (datamatrix) pour l'application #TousAntiCovid
 
 Disponible ici -> http://antivax.000webhostapp.com/
